@@ -8,4 +8,4 @@ nps start
 
 ```
 
-[Edit here](https://diy.pwa.dev/~/salmanrahman98/User-interface-101)
+[Edit here](https://diy.pwa.dev/~/gh/salmanrahman98/User-interface-101)
